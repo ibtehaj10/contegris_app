@@ -4,5 +4,5 @@ torch
 pandas
 flask
 gunicorn
-fasttext
+fasttext-wheel
 
